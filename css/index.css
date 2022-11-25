@@ -1,0 +1,13 @@
+header {
+    font-size: large;
+}
+#product div{
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    border: solid;
+    border:1px solid black;
+}
+p{
+    font-size: 20px;
+}
